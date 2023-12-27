@@ -10,7 +10,7 @@ Plan Tours simplifies the process of organizing and planning tours for various t
 
 To use Plan Tours:
 
-Access the [Plan Tours GitHub Project](https://example.com/plan-tours) in your web browser.
+Access the [Plan Tours GitHub Project](https://plan-tours-luxprajapati.netlify.app/) in your web browser.
 
 ## Technologies Used
 
